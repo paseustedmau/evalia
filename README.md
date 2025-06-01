@@ -1,2 +1,3 @@
-# evalia
-Evalia - Plataforma SaaS de evaluación y reclutamiento
+# Evalia
+Plataforma SaaS multitenant para evaluación de talento y procesos de reclutamiento.
+
